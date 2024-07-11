@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'authprovider.dart'; // Adjust the path as per your project structure
-import 'screens/login.dart'; // Adjust the path as per your project structure
+import 'authprovider.dart'; 
+import 'screens/login.dart'; 
 
 
 void main() {
